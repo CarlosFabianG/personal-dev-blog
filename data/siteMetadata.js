@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Carlos Fabian Blog',
   author: 'Carlos Fabian',
   headerTitle: 'Carlos Fabian',
-  description: 'Solo letras y codigo',
+  description: 'Blog personal en donde escribo letras y código',
   language: 'spanish-mx',
   siteUrl: 'https://carlos-fabian-blog.vercel.app',
   siteRepo: 'https://github.com/carlosfabiang/carlos-fabian-blog',
@@ -10,11 +10,11 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
+  github: 'https://github.com/carlosfabiang',
+  twitter: 'https://twitter.com/carfabg',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/in/carlosfabian',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics

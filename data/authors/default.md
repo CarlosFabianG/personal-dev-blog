@@ -1,16 +1,20 @@
 ---
-name: Tails Azimuth
+name: Carlos Fabian
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
+occupation: Software Engineer
+company: Encora Inc
 email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+twitter: https://twitter.com/carfabg
+linkedin: https://www.linkedin.com/in/carlosfabian
+github: https://github.com/carlosfabiang
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Soy Carlos Fabian, software engineer. 
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+A los 28 años decidí cambiar de carrera: de marketing a web development. El camino fue dificil pero actualmente estoy trabajando como software engineer en una empresa increible.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Cuando estaba empezando mi camino en el desarrollo de software me sorprendió la cantidad de contenido que la comunidad crea para compartir su conocimiento. El camino fue dificil pero siempre encontre en la web recursos y personas dispuestas a ayudar a los que van empezando.
+
+Este espacio es para contribuir a la comunidad con notas y reflexiones sobre lo que aprendo en mi día a día. 
+
+ 
