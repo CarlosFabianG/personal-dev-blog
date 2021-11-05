@@ -9,12 +9,13 @@ linkedin: https://www.linkedin.com/in/carlosfabian
 github: https://github.com/carlosfabiang
 ---
 
-Soy Carlos Fabian, software engineer. 
+Hola, bienvenido a mi blog! Soy Carlos Fabian, software engineer. 
 
-A los 28 años decidí cambiar de carrera: de marketing a web development. El camino fue dificil pero actualmente estoy trabajando como software engineer en una empresa increible.  
+A los 28 años decidí cambiar de carrera: de marketing a web development.  
 
 Cuando estaba empezando mi camino en el desarrollo de software me sorprendió la cantidad de contenido que la comunidad crea para compartir su conocimiento. El camino fue dificil pero siempre encontre en la web recursos y personas dispuestas a ayudar a los que van empezando.
 
-Este espacio es para contribuir a la comunidad con notas y reflexiones sobre lo que aprendo en mi día a día. 
+Este espacio es para contribuir a la comunidad con notas sobre lo que aprendo en mi día a día. Así como un playground para experimentar con ideas y como medio de reflexión sobre la carrera de desarrollador. 
 
+Actualmente trabajo como software engineer para una empresa increible. Mi stack actual es javascript fullstack. 
  

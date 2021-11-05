@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Carlos Fabian Blog',
   author: 'Carlos Fabian',
   headerTitle: 'Carlos Fabian',
-  description: 'Blog personal en donde escribo letras y código',
+  description: 'Bienvenido a mi blog. Aquí escribo con letras y código sobre lo que aprendo en mi día a día.',
   language: 'spanish-mx',
   siteUrl: 'https://carlos-fabian-blog.vercel.app',
   siteRepo: 'https://github.com/carlosfabiang/carlos-fabian-blog',
