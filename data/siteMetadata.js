@@ -11,7 +11,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'carls.fab.g@gmail.com',
   github: 'https://github.com/carlosfabiang',
-  twitter: 'https://twitter.com/carfabg',
+  twitter: 'https://twitter.com/CarlosfDev',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/carlosfabian',
