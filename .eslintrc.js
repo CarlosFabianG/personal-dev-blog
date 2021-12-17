@@ -12,6 +12,7 @@ module.exports = {
     'plugin:prettier/recommended',
     'next',
     'next/core-web-vitals',
+    'prettier'
   ],
   rules: {
     'prettier/prettier': 'error',
