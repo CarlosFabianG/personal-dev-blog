@@ -3,7 +3,7 @@ title: '¿Qué es cloud computing?'
 date: 2022-02-08
 tags: ['cloud computing', 'software engineering', DevOps]
 draft: false
-summary: 'Introducción a los fundamentos del cloud computing y su importancia clave en la industria'
+summary: 'Algunos fundamentos del cloud computing y su importancia en la industria del desarrollo actual'
 ---
 
 # ¿Qué es cloud computing?
@@ -183,4 +183,4 @@ Otros servicios que podríamos listar y que tienen sus propias especializaciones
 
 ---
 
-Estos fueron algunos de los fundamentos del ***cloud computing*** que nos ayuda a tener ******un ******contexto ******amplio de esta importante área que domina la industria del desarrollo actual. En futuros posts profundizaremos en algunos de estos temas.
+Estos fueron algunos de los fundamentos del ***cloud computing*** que nos ayuda a tener un contexto amplio de esta importante área que domina la industria del desarrollo actual. En futuros posts profundizaremos en algunos de estos temas.
