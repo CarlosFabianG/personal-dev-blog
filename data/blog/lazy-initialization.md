@@ -6,7 +6,7 @@ draft: false
 summary: Con esta técnica puedes optimizar el performance de tus aplicaciones React
 ---
 
-Cuando nos adentramos al mundo de los hooks en React.js el primero que aprendemos es **`useState`**, lo cual no es de extrañar ya que el manejo de estado es la parte crucial de un frontend basado en componentes. 
+Cuando nos adentramos al mundo de los hooks en React.js el primero que aprendemos es **`useState`**. Lo cual no es de extrañar ya que el manejo de estado es la parte crucial de un frontend basado en componentes. 
 
 Aquí un ejemplo básico de su uso en un componente contador que responde al click de un botón:
 
@@ -34,16 +34,16 @@ Como observamos, la diferencia es que en este segundo ejemplo pasamos una funci�
 
 ## Lazy initialization
 
-Si colocáramos un ***`console.log`*** con cualquier mensaje ******en nuestra función `counter`, este se imprimiría cada vez que damos click al botón. Esto es porque cada vez que la función `counter` es ejecutada. 
+Si colocáramos un ***`console.log`*** con el string `"hola mundo"` en nuestra función `counter`, este se imprimiría cada vez que damos click al botón. Esto es porque cada vez que la función `counter` es llamada en cada render se ejecuta todo el cuerpo de la función.
 
-Una cosa importante a tener en cuenta para entender esto es que cuando el cuerpo de una función corre, esto significa que todo el código dentro corre también. Variables o parámetros  son creados y evaluados en cada render. La mayoría de ocasiones esto no importa porque los motores de javascript optimizan estos casos.
+Lo anterior también significa que variables o parámetros, inicializados dentro de la función, son creados y evaluados en cada render. La mayoría de ocasiones esto no importa porque los motores de javascript optimizan estos casos:
 
 ```jsx
 const initialState = 0
 const [count, setCount] = React.useState(initialState)
 ```
 
-En cambio, no sería lo mismo si el valor inicial de useState es computacionalmente costoso. 
+En cambio, no sería lo mismo si el valor inicial de useState es computacionalmente demandante. 
 
 Por ejemplo, un caso práctico podría ser si necesitamos pasar como el valor inicial de estado el ***local storage*** que es una operación IO costosa:
 
